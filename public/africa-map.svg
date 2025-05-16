@@ -1,0 +1,12 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M150,50 C120,60 100,80 90,110 C80,140 85,170 100,195 C115,220 140,235 170,240 C200,245 230,235 250,210 C270,185 275,155 265,125 C255,95 235,75 205,65 C185,58 165,55 150,50 Z" 
+  fill="#EB9B87" stroke="#EB9B87" stroke-width="2" />
+  <path d="M150,50 C120,60 100,80 90,110 C80,140 85,170 100,195 C115,220 140,235 170,240 C200,245 230,235 250,210 C270,185 275,155 265,125 C255,95 235,75 205,65 C185,58 165,55 150,50 Z" 
+  fill="url(#africa-pattern)" stroke="#EB9B87" stroke-width="2" />
+  
+  <defs>
+    <pattern id="africa-pattern" patternUnits="userSpaceOnUse" width="10" height="10" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="10" stroke="#D85531" stroke-width="2" />
+    </pattern>
+  </defs>
+</svg>

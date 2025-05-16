@@ -1,0 +1,184 @@
+{
+    "dashboard": {
+      "title": {
+        "home": "Dashibodi",
+        "statistics": "Takwimu",
+        "profile": "Wasifu",
+        "projects": "Miradi Yangu",
+        "subscriptions": "Usajili",
+        "investments": "Uwekezaji Wangu",
+        "favorites": "Vipendwa",
+        "recommendations": "Mapendekezo",
+        "settings": "Mipangilio",
+        "default": "LinkIn"
+      },
+      "menu": {
+        "home": "Nyumbani",
+        "statistics": "Takwimu",
+        "profile": "Wasifu",
+        "projects": "Miradi",
+        "subscriptions": "Usajili",
+        "investments": "Uwekezaji",
+        "favorites": "Vipendwa",
+        "recommendations": "Mapendekezo",
+        "settings": "Mipangilio",
+        "logout": "Toka"
+      },
+      "role": {
+        "entrepreneur": "Mjasiriamali",
+        "investor": "Mwekezaji",
+        "mentor": "Mshauri"
+      },
+      "stats": {
+        "projects": "Miradi",
+        "connections": "Mawasiliano",
+        "messages": "Ujumbe",
+        "investments": "Uwekezaji"
+      },
+      "charts": {
+        "activity": "Shughuli",
+        "progress": "Maendeleo",
+        "visitors": "Wageni",
+        "connections": "Mawasiliano",
+        "funding": "Ufadhili",
+        "mentoring": "Ushauri",
+        "networking": "Mtandao",
+        "growth": "Ukuaji"
+      },
+      "recent": {
+        "activities": "Shughuli za Hivi Karibuni"
+      },
+      "upcoming": {
+        "tasks": "Kazi Zinazokuja"
+      },
+      "activities": {
+        "message": "amekutumia ujumbe.",
+        "connection": "ameunganishwa nawe.",
+        "investment": "amewekeza {amount} katika mradi wako.",
+        "project": "Mradi wako {project} umeoneshwa."
+      },
+      "tasks": {
+        "meeting": "Mkutano na {name}",
+        "update": "Sasisha maelezo ya mradi",
+        "presentation": "Andaa uwasilishaji kwa wawekezaji",
+        "report": "Wasilisha ripoti ya kila mwezi"
+      },
+      "priority": {
+        "high": "Juu",
+        "medium": "Wastani",
+        "low": "Chini"
+      },
+      "actions": {
+        "viewAll": "Ona yote",
+        "apply": "Tumia",
+        "export": "Hamisha",
+        "edit": "Hariri",
+        "save": "Hifadhi",
+        "cancel": "Ghairi",
+        "send": "Tuma"
+      },
+      "statistics": {
+        "filters": "Vichujio",
+        "overview": "Muhtasari",
+        "distribution": "Usambazaji",
+        "growth": "Ukuaji",
+        "details": "Maelezo",
+        "projects": "Miradi",
+        "investments": "Uwekezaji"
+      },
+      "period": {
+        "week": "Wiki hii",
+        "month": "Mwezi huu",
+        "quarter": "Robo hii",
+        "year": "Mwaka huu"
+      },
+      "category": {
+        "all": "Kategoria zote",
+        "projects": "Miradi",
+        "investments": "Uwekezaji",
+        "connections": "Mawasiliano"
+      },
+      "table": {
+        "date": "Tarehe",
+        "project": "Mradi",
+        "category": "Kategoria",
+        "views": "Maoni",
+        "connections": "Mawasiliano",
+        "investments": "Uwekezaji"
+      },
+      "profile": {
+        "edit": "Hariri Wasifu",
+        "personalInfo": "Taarifa Binafsi",
+        "skillsInterests": "Ujuzi na Maslahi",
+        "firstName": "Jina la Kwanza",
+        "lastName": "Jina la Familia",
+        "email": "Barua pepe",
+        "phone": "Simu",
+        "location": "Eneo",
+        "bio": "Wasifu",
+        "skills": "Ujuzi",
+        "interests": "Maslahi",
+        "stats": "Takwimu",
+        "profileViews": "Maoni ya Wasifu",
+        "connections": "Mawasiliano",
+        "messages": "Ujumbe",
+        "projectsViewed": "Miradi Iliyoangaliwa",
+        "accountSettings": "Mipangilio ya Akaunti",
+        "changePassword": "Badilisha Nenosiri",
+        "notificationSettings": "Mipangilio ya Arifa",
+        "privacySettings": "Mipangilio ya Faragha",
+        "deleteAccount": "Futa Akaunti"
+      },
+      "projects": {
+        "title": "Miradi Yangu",
+        "create": "Unda Mradi",
+        "search": "Tafuta miradi...",
+        "allStatuses": "Hali zote",
+        "allCategories": "Kategoria zote",
+        "draft": "Rasimu",
+        "published": "Imechapishwa",
+        "funded": "Imefadhiliwa",
+        "agriculture": "Kilimo",
+        "technology": "Teknolojia",
+        "education": "Elimu",
+        "health": "Afya",
+        "energy": "Nishati",
+        "finance": "Fedha",
+        "lastUpdated": "Imesasishwa mwisho",
+        "fundingProgress": "Maendeleo ya Ufadhili",
+        "views": "Maoni",
+        "favorites": "Vipendwa",
+        "viewDetails": "Ona Maelezo",
+        "noProjects": "Hakuna miradi iliyopatikana",
+        "noProjectsDescription": "Bado hujaunda miradi yoyote. Anza kwa kuunda mradi wako wa kwanza.",
+        "createFirst": "Unda mradi wangu wa kwanza",
+        "description": "Maelezo",
+        "problem": "Tatizo",
+        "solution": "Suluhisho",
+        "impact": "Athari",
+        "gallery": "Matunzio",
+        "addImage": "Ongeza Picha",
+        "documents": "Nyaraka",
+        "addDocument": "Ongeza Nyaraka",
+        "funding": "Ufadhili",
+        "fundingRequired": "Ufadhili Unaohitajika",
+        "fundingObtained": "Ufadhili Uliopatikana",
+        "investors": "Wawekezaji",
+        "statistics": "Takwimu",
+        "messages": "Ujumbe",
+        "shares": "Kushiriki",
+        "team": "Timu",
+        "addTeamMember": "Ongeza Mshiriki wa Timu",
+        "actions": "Vitendo",
+        "viewMessages": "Ona Ujumbe",
+        "viewPublicPage": "Ona Ukurasa wa Umma",
+        "share": "Shiriki Mradi",
+        "delete": "Futa Mradi",
+        "writeMessage": "Andika ujumbe...",
+        "publish": "Chapisha Mradi"
+      }
+    },
+    "navbar": {
+      "dashboard": "Dashibodi"
+    }
+  }

@@ -1,0 +1,239 @@
+{
+  "dashboard": {
+    "title": {
+      "home": "Tableau de bord",
+      "statistics": "Statistiques",
+      "profile": "Profil",
+      "projects": "Mes projets",
+      "subscriptions": "Abonnements",
+      "investments": "Mes investissements",
+      "favorites": "Favoris",
+      "recommendations": "Recommandations",
+      "settings": "Paramètres",
+      "default": "LinkIn"
+    },
+    "menu": {
+      "main": "Principal",
+      "manage": "Gérer",
+      "home": "Accueil",
+      "statistics": "Statistiques",
+      "profile": "Profil",
+      "projects": "Projets",
+      "subscriptions": "Abonnements",
+      "investments": "Investissements",
+      "favorites": "Favoris",
+      "recommendations": "Recommandations",
+      "settings": "Paramètres",
+      "logout": "Déconnexion"
+    },
+    "header": {
+      "darkMode": "Mode sombre",
+      "lightMode": "Mode clair",
+      "notifications": "Notifications",
+      "profile": "Profil",
+      "settings": "Paramètres",
+      "logout": "Déconnexion"
+    },
+    "footer": {
+      "rights": "Tous droits réservés.",
+      "backToSite": "Retour au site",
+      "terms": "Conditions",
+      "privacy": "Confidentialité"
+    },
+    "role": {
+      "entrepreneur": "Entrepreneur",
+      "investor": "Investisseur",
+      "mentor": "Mentor"
+    },
+    "stats": {
+      "projects": "Projets",
+      "connections": "Connexions",
+      "messages": "Messages",
+      "investments": "Investissements"
+    },
+    "charts": {
+      "activity": "Activité",
+      "progress": "Progression",
+      "visitors": "Visiteurs",
+      "connections": "Connexions",
+      "funding": "Financement",
+      "mentoring": "Mentorat",
+      "networking": "Réseau",
+      "growth": "Croissance"
+    },
+    "recent": {
+      "activities": "Activités récentes"
+    },
+    "upcoming": {
+      "tasks": "Tâches à venir"
+    },
+    "activities": {
+      "message": "vous a envoyé un message.",
+      "connection": "s'est connecté avec vous.",
+      "investment": "a investi {amount} dans votre projet.",
+      "project": "Votre projet {project} a été mis en avant."
+    },
+    "tasks": {
+      "meeting": "Réunion avec {name}",
+      "update": "Mettre à jour les informations du projet",
+      "presentation": "Préparer la présentation pour les investisseurs",
+      "report": "Soumettre le rapport mensuel"
+    },
+    "priority": {
+      "high": "Haute",
+      "medium": "Moyenne",
+      "low": "Basse"
+    },
+    "actions": {
+      "viewAll": "Voir tout",
+      "apply": "Appliquer",
+      "export": "Exporter",
+      "edit": "Modifier",
+      "save": "Enregistrer",
+      "cancel": "Annuler",
+      "send": "Envoyer"
+    },
+    "statistics": {
+      "filters": "Filtres",
+      "overview": "Aperçu",
+      "distribution": "Distribution",
+      "growth": "Croissance",
+      "details": "Détails",
+      "projects": "Projets",
+      "investments": "Investissements"
+    },
+    "period": {
+      "week": "Cette semaine",
+      "month": "Ce mois",
+      "quarter": "Ce trimestre",
+      "year": "Cette année"
+    },
+    "category": {
+      "all": "Toutes les catégories",
+      "projects": "Projets",
+      "investments": "Investissements",
+      "connections": "Connexions"
+    },
+    "table": {
+      "date": "Date",
+      "project": "Projet",
+      "category": "Catégorie",
+      "views": "Vues",
+      "connections": "Connexions",
+      "investments": "Investissements"
+    },
+    "profile": {
+      "edit": "Modifier le profil",
+      "personalInfo": "Informations personnelles",
+      "skillsInterests": "Compétences et intérêts",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "location": "Localisation",
+      "bio": "Biographie",
+      "skills": "Compétences",
+      "interests": "Intérêts",
+      "stats": "Statistiques",
+      "profileViews": "Vues du profil",
+      "connections": "Connexions",
+      "messages": "Messages",
+      "projectsViewed": "Projets consultés",
+      "accountSettings": "Paramètres du compte",
+      "changePassword": "Changer le mot de passe",
+      "notificationSettings": "Paramètres de notification",
+      "privacySettings": "Paramètres de confidentialité",
+      "deleteAccount": "Supprimer le compte"
+    },
+    "projects": {
+      "title": "Mes projets",
+      "create": "Créer un projet",
+      "search": "Rechercher un projet...",
+      "allStatuses": "Tous les statuts",
+      "allCategories": "Toutes les catégories",
+      "draft": "Brouillon",
+      "published": "Publié",
+      "funded": "Financé",
+      "agriculture": "Agriculture",
+      "technology": "Technologie",
+      "education": "Éducation",
+      "health": "Santé",
+      "energy": "Énergie",
+      "finance": "Finance",
+      "lastUpdated": "Dernière mise à jour",
+      "fundingProgress": "Progression du financement",
+      "views": "Vues",
+      "favorites": "Favoris",
+      "viewDetails": "Voir les détails",
+      "noProjects": "Aucun projet trouvé",
+      "noProjectsDescription": "Vous n'avez pas encore créé de projet. Commencez par créer votre premier projet.",
+      "createFirst": "Créer mon premier projet",
+      "description": "Description",
+      "problem": "Problème",
+      "solution": "Solution",
+      "impact": "Impact",
+      "gallery": "Galerie",
+      "addImage": "Ajouter une image",
+      "documents": "Documents",
+      "addDocument": "Ajouter un document",
+      "funding": "Financement",
+      "fundingRequired": "Financement requis",
+      "fundingObtained": "Financement obtenu",
+      "investors": "Investisseurs",
+      "statistics": "Statistiques",
+      "messages": "Messages",
+      "shares": "Partages",
+      "team": "Équipe",
+      "addTeamMember": "Ajouter un membre",
+      "actions": "Actions",
+      "viewMessages": "Voir les messages",
+      "viewPublicPage": "Voir la page publique",
+      "share": "Partager le projet",
+      "delete": "Supprimer le projet",
+      "writeMessage": "Écrire un message...",
+      "publish": "Publier le projet"
+    }
+  },
+  "navbar": {
+    "dashboard": "Tableau de bord",
+    "home": "Accueil",
+    "projects": "Projets",
+    "about": "À propos",
+    "contact": "Contact",
+    "login": "Connexion",
+    "signup": "Inscription",
+    "profile": "Profil",
+    "logout": "Déconnexion"
+  },
+  "footer": {
+    "about": "À propos",
+    "contact": "Contact",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "copyright": "© 2023 LinkIn. Tous droits réservés."
+  },
+  "home": {
+    "hero": {
+      "title": "Connectez-vous avec des entrepreneurs africains",
+      "subtitle": "Découvrez, investissez et soutenez des projets innovants à travers l'Afrique",
+      "cta": "Commencer maintenant"
+    }
+  },
+  "auth": {
+    "login": "Connexion",
+    "signup": "Inscription",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "forgotPassword": "Mot de passe oublié ?",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "hasAccount": "Vous avez déjà un compte ?",
+    "createAccount": "Créer un compte",
+    "loginNow": "Se connecter maintenant",
+    "or": "ou",
+    "continueWith": "Continuer avec",
+    "agreeTerms": "En vous inscrivant, vous acceptez nos conditions d'utilisation et notre politique de confidentialité"
+  }
+}

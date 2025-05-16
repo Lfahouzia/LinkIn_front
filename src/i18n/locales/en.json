@@ -1,0 +1,184 @@
+{
+    "dashboard": {
+      "title": {
+        "home": "Dashboard",
+        "statistics": "Statistics",
+        "profile": "Profile",
+        "projects": "My Projects",
+        "subscriptions": "Subscriptions",
+        "investments": "My Investments",
+        "favorites": "Favorites",
+        "recommendations": "Recommendations",
+        "settings": "Settings",
+        "default": "LinkIn"
+      },
+      "menu": {
+        "home": "Home",
+        "statistics": "Statistics",
+        "profile": "Profile",
+        "projects": "Projects",
+        "subscriptions": "Subscriptions",
+        "investments": "Investments",
+        "favorites": "Favorites",
+        "recommendations": "Recommendations",
+        "settings": "Settings",
+        "logout": "Logout"
+      },
+      "role": {
+        "entrepreneur": "Entrepreneur",
+        "investor": "Investor",
+        "mentor": "Mentor"
+      },
+      "stats": {
+        "projects": "Projects",
+        "connections": "Connections",
+        "messages": "Messages",
+        "investments": "Investments"
+      },
+      "charts": {
+        "activity": "Activity",
+        "progress": "Progress",
+        "visitors": "Visitors",
+        "connections": "Connections",
+        "funding": "Funding",
+        "mentoring": "Mentoring",
+        "networking": "Networking",
+        "growth": "Growth"
+      },
+      "recent": {
+        "activities": "Recent Activities"
+      },
+      "upcoming": {
+        "tasks": "Upcoming Tasks"
+      },
+      "activities": {
+        "message": "sent you a message.",
+        "connection": "connected with you.",
+        "investment": "invested {amount} in your project.",
+        "project": "Your project {project} has been featured."
+      },
+      "tasks": {
+        "meeting": "Meeting with {name}",
+        "update": "Update project information",
+        "presentation": "Prepare presentation for investors",
+        "report": "Submit monthly report"
+      },
+      "priority": {
+        "high": "High",
+        "medium": "Medium",
+        "low": "Low"
+      },
+      "actions": {
+        "viewAll": "View all",
+        "apply": "Apply",
+        "export": "Export",
+        "edit": "Edit",
+        "save": "Save",
+        "cancel": "Cancel",
+        "send": "Send"
+      },
+      "statistics": {
+        "filters": "Filters",
+        "overview": "Overview",
+        "distribution": "Distribution",
+        "growth": "Growth",
+        "details": "Details",
+        "projects": "Projects",
+        "investments": "Investments"
+      },
+      "period": {
+        "week": "This week",
+        "month": "This month",
+        "quarter": "This quarter",
+        "year": "This year"
+      },
+      "category": {
+        "all": "All categories",
+        "projects": "Projects",
+        "investments": "Investments",
+        "connections": "Connections"
+      },
+      "table": {
+        "date": "Date",
+        "project": "Project",
+        "category": "Category",
+        "views": "Views",
+        "connections": "Connections",
+        "investments": "Investments"
+      },
+      "profile": {
+        "edit": "Edit Profile",
+        "personalInfo": "Personal Information",
+        "skillsInterests": "Skills & Interests",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "phone": "Phone",
+        "location": "Location",
+        "bio": "Biography",
+        "skills": "Skills",
+        "interests": "Interests",
+        "stats": "Statistics",
+        "profileViews": "Profile Views",
+        "connections": "Connections",
+        "messages": "Messages",
+        "projectsViewed": "Projects Viewed",
+        "accountSettings": "Account Settings",
+        "changePassword": "Change Password",
+        "notificationSettings": "Notification Settings",
+        "privacySettings": "Privacy Settings",
+        "deleteAccount": "Delete Account"
+      },
+      "projects": {
+        "title": "My Projects",
+        "create": "Create Project",
+        "search": "Search projects...",
+        "allStatuses": "All statuses",
+        "allCategories": "All categories",
+        "draft": "Draft",
+        "published": "Published",
+        "funded": "Funded",
+        "agriculture": "Agriculture",
+        "technology": "Technology",
+        "education": "Education",
+        "health": "Health",
+        "energy": "Energy",
+        "finance": "Finance",
+        "lastUpdated": "Last updated",
+        "fundingProgress": "Funding Progress",
+        "views": "Views",
+        "favorites": "Favorites",
+        "viewDetails": "View Details",
+        "noProjects": "No projects found",
+        "noProjectsDescription": "You haven't created any projects yet. Start by creating your first project.",
+        "createFirst": "Create my first project",
+        "description": "Description",
+        "problem": "Problem",
+        "solution": "Solution",
+        "impact": "Impact",
+        "gallery": "Gallery",
+        "addImage": "Add Image",
+        "documents": "Documents",
+        "addDocument": "Add Document",
+        "funding": "Funding",
+        "fundingRequired": "Funding Required",
+        "fundingObtained": "Funding Obtained",
+        "investors": "Investors",
+        "statistics": "Statistics",
+        "messages": "Messages",
+        "shares": "Shares",
+        "team": "Team",
+        "addTeamMember": "Add Team Member",
+        "actions": "Actions",
+        "viewMessages": "View Messages",
+        "viewPublicPage": "View Public Page",
+        "share": "Share Project",
+        "delete": "Delete Project",
+        "writeMessage": "Write a message...",
+        "publish": "Publish Project"
+      }
+    },
+    "navbar": {
+      "dashboard": "Dashboard"
+    }
+  }
