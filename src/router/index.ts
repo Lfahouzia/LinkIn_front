@@ -8,10 +8,13 @@ import SignupPage from "@/views/SignupPage.vue";
 import AboutPage from "@/views/AboutPage.vue";
 import ContactPage from "@/views/ContactPage.vue";
 import FAQPage from "@/views/FAQPage.vue";
+import BlogPage from "@/views/BlogPage.vue";
+import CourseDetailPage from "@/views/CourseDetailPage.vue";
 import ProjectsPage from "@/views/ProjectsPage.vue";
 import PricingPage from "@/views/PricingPage.vue";
 import ProjectDetailPage from "@/views/ProjectDetailsPage.vue";
 import PrivacyPolicyPage from "@/views/PrivacyPolicyPage.vue";
+import PartnersPage from "@/views/PartnersPage.vue";
 
 // Importation des vues du dashboard
 import DashboardPage from "@/views/DashboardPage.vue";
@@ -59,6 +62,18 @@ const routes: Array<RouteRecordRaw> = [
     meta: { title: "FAQ" },
   },
   {
+    path: "/blog",
+    name: "blog",
+    component: BlogPage,
+    meta: { title: "Blog" },
+  },
+  {
+    path: "/courseDetail",
+    name: "courseDetail",
+    component: CourseDetailPage,
+    meta: { title: "Blog" },
+  },
+  {
     path: "/projects",
     name: "projects",
     component: ProjectsPage,
@@ -81,6 +96,12 @@ const routes: Array<RouteRecordRaw> = [
     name: "privacy-policy",
     component: PrivacyPolicyPage,
     meta: { title: "Politique de confidentialité" },
+  },
+  {
+    path: "/partners",
+    name: "partners",
+    component: PartnersPage,
+    meta: { title: "Partenaires" },
   },
   // Routes du dashboard
   {
